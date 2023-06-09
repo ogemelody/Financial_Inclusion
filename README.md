@@ -1,2 +1,2 @@
 # Test
-Trial on git config
+Financial inclusion Hackathon in FUTA
